@@ -26,9 +26,9 @@ header::before {
     z-index: -1;
 }
 body {
-    margin: 0; /* Remove a margem padrão do navegador */
-    padding: 0; /* Remove o preenchimento padrão do navegador */
-    background-color: #707070; /* Define a cor de fundo do corpo do site para cinza */
+    margin: 0; 
+    padding: 0; 
+    background-color: #707070; 
 }
 
 h1 {
