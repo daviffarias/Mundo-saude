@@ -123,3 +123,26 @@ h2 {
 ul {
     list-style-position: inside;
 }
+
+.campo-linha{
+    font-size: 35px;
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    
+
+}
+#secao-peso{
+    font-size: 30px;
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    
+}
+#secao-peso form{
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(3, 1fr);
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
